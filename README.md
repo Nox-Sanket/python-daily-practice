@@ -13,5 +13,6 @@ I will be building 100 projects while learning Python step by step.
 | Day 2 | Data Types | Tip Calculator |
 | Day 3 | Control Flow | Treasure Island |
 | Day 4 | Randomisation | Rock Paper Scissors |
+| Day 5 | Python loop | Password Generator|
 
 *(I will update this daily)*
